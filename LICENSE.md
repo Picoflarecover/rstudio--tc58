@@ -1,4 +1,4 @@
-# 
+# Get the ultimate RStudio for PC | RStudio for Windows plugin with automatic Plugin for RStudio for PC | RStudio for Windows - formula-editing and report-generation. Featuring
 
 
 
